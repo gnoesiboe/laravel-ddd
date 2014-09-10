@@ -1,0 +1,19 @@
+{
+    "name": "gnoesiboe/ddd",
+    "description": "",
+    "authors": [
+        {
+            "name": "Gijs Nieuwenhuis",
+            "email": "gijsnieuwenhuis@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Gnoesiboe\\Ddd": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
